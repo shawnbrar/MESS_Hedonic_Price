@@ -9,3 +9,5 @@ Most of the matlab code is written by Lesage and Pace. I have only written the f
 2. [MESS/obj2mat.R](https://github.com/shawnbrar/MESS_Hedonic_Price/blob/master/MESS/obj2mat.R): code for preparation of data
 
 This is my project report:-[BRAR_Sudhakar_DASEE_Project.pdf](https://github.com/shawnbrar/MESS_Hedonic_Price/blob/master/BRAR_Sudhakar_DASEE_Project.pdf): project report
+
+Source: Original data made available by Robin Dubin, Weatherhead School of Management, Case Western Research University, Cleveland, OH
