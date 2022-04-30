@@ -1,0 +1,18 @@
+function Y_big = vec(Y);
+% PURPOSE: Create a matrix stacking the columns of Y
+% ------------------------------------------------------------
+% SYNTAX: Y_big = vec(Y)
+% ------------------------------------------------------------
+% OUTPUT: Y_big = matrix of columns of Y
+% ------------------------------------------------------------
+% INPUT: Y = an nxM matrix of original series, columnwise
+% ------------------------------------------------------------
+
+% written by:
+% James P. LeSage
+
+[n,M] = size(Y);
+
+Y_big = reshape(Y,n,1);
+
+
